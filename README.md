@@ -1,7 +1,8 @@
+This GitHub repository is a copy of the Sequeduct Methyl GitHub repository stored under the Edinburgh Genome Foundry account, to maintain anonymity for the dissertation. To run any of the commands listed below, please replace "edinburgh-genome-foundry" to "B250583-2023" to pull the pipeline from this repository instead. A Docker package is also not available since this account is not assocaited under the EGF's GitHub container registry, so the file would have to be downloaded, or the repository can be cloned altogether.
+
 <p align="center">
 <img alt="Sequeduct Methyl logo" title="Sequeduct Methyl" src="images/logo.png" width="120">
 </p>
-
 
 # Sequeduct Methyl
 
